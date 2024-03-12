@@ -242,8 +242,8 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  margin-bottom: 8px;
   text-align: center;
+  margin-bottom: 8px;
 }
 
 .team-position {
@@ -311,6 +311,9 @@ footer {
 }
 .logo-footer {
   color: #f4f4fd;
+}
+
+.logo-footer-accent {
   display: inline-block;
   margin-bottom: 16px;
 }

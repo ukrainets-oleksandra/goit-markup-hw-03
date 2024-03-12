@@ -148,12 +148,10 @@ img {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-}
-
-.button-wrapper {
   display: flex;
   justify-content: center;
 }
+
 .section-first-btn:hover,
 .section-first-btn:focus {
   background-color: #404bbf;
@@ -291,6 +289,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .portfolio-descr {
